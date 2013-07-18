@@ -913,6 +913,7 @@ USBVENDORID USBVendorIDs[] =
     { 3162, /* 0x0C5A */ _T("TRS International Mfg., Inc.")},
     { 4268, /* 0x10AC */ _T("Honeywell, Inc.")},
     { 4496, /* 0x1190 */ _T("Tripace")},
+    { 4475, /* 0x117B */ _T("Primetech Engineering Corporation")},	// hkimata added
     { 4622, /* 0x120E */ _T("HUDSON SOFT CO., LTD.")},
     { 5480, /* 0x1568 */ _T("Sunf Pu Technology Co., Ltd")},
     { 5638, /* 0x1606 */ _T("UMAX Data Systems Inc.")},
